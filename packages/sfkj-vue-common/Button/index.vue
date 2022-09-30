@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    kds-test
+    kds-test11
     <button @click="test()">111</button>
   </div>
 </template>
