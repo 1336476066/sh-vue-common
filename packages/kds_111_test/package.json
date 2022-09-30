@@ -1,0 +1,30 @@
+{
+  "name": "kds_111_test",
+  "version": "0.0.5",
+  "description": "> TODO: description",
+  "author": "01413971 <1336476066@qq.com>",
+  "homepage": "https://github.com/1336476066/sh-vue-common#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1336476066/sh-vue-common.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/kds_111_test.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/1336476066/sh-vue-common/issues"
+  },
+  "dependencies": {
+    "kds-vue-common": "^0.0.5",
+    "less": "^4.1.3"
+  }
+}
