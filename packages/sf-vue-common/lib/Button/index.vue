@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    kds-test
     <button @click="test()">111</button>
   </div>
 </template>
