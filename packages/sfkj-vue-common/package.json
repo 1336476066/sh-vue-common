@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "less": "^4.1.3"
-  }
+  },
+  "gitHead": "79a08beb4149af1ad7b431614103a97cc1fc54b2"
 }
