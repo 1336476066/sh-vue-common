@@ -1,6 +1,6 @@
 {
   "name": "kds_111_test",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "01413971 <1336476066@qq.com>",
   "homepage": "https://github.com/1336476066/sh-vue-common#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/1336476066/sh-vue-common/issues"
   },
   "dependencies": {
-    "kds-vue-common": "^0.0.5",
+    "kds-vue-common": "^0.0.6",
     "less": "^4.1.3"
   }
 }
